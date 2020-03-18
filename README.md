@@ -185,7 +185,7 @@ Simply solder the 3 leads from the switch to the shield in the 5V, GND, and A0 p
 
 ### Installing the GPS Software
 
-We have put a windows and linux binary for the GPS software on Github under "releases" tab; which you can click [here](https://github.com/Jaycar-Electronics/GPS-Tracker/releases)
+We have put a windows binary for the GPS software on Github under "releases" tab; which you can click [here](https://github.com/Jaycar-Electronics/GPS-Tracker/releases)
 
 Download the software and run it. It should open up with no problems; You won't have much data to view though until you use the GPS tracker, which is shown next.
 
