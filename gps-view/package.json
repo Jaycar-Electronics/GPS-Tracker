@@ -16,7 +16,7 @@
   "dependencies": {
     "core-js": "^3.4.4",
     "leaflet": "^1.6.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "serialport": "^8.0.7",
     "vue": "^2.6.10",
     "vue2-leaflet": "^2.4.2",
